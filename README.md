@@ -85,16 +85,19 @@ Autism-Prediction-System/
 ## 📸 Application Preview
 
 ### Home Screen
+<img width="955" height="476" alt="image" src="https://github.com/user-attachments/assets/312b011f-811e-4da0-97e6-5ebd873d6cc4" />
 
-(Add Screenshot)
+
 
 ### Prediction Result
 
-(Add Screenshot)
+<img width="950" height="472" alt="image" src="https://github.com/user-attachments/assets/e71ec621-629b-4351-ad17-f95363628bca" />
+
 
 ### Feature Importance
 
-(Add Screenshot)
+<img width="520" height="373" alt="image" src="https://github.com/user-attachments/assets/5015b39c-a4fe-4e5c-ad8e-3a4220284cb5" />
+
 
 ---
 
@@ -103,7 +106,7 @@ Autism-Prediction-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Autism-Prediction-System.git
+git clone https://github.com/jsite/Autism-Prediction-System.git
 ```
 
 Install dependencies
