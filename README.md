@@ -106,7 +106,7 @@ Autism-Prediction-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/jsite/Autism-Prediction-System.git
+git clone https://github.com/jsite-15/Autism-Prediction-System.git
 ```
 
 Install dependencies
