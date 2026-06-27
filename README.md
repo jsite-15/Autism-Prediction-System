@@ -75,9 +75,8 @@ Autism-Prediction-System/
 ├── encoders.pkl
 ├── requirements.txt
 ├── README.md
-├── data/
+├── autism_data
 ├── images/
-└── models/
 ```
 
 ---
